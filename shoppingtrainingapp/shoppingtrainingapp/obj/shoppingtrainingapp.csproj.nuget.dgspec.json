@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\AAsp.net-Project\\shoppingtrainingapp\\shoppingtrainingapp\\shoppingtrainingapp.csproj": {}
+    "C:\\Users\\ManikandanP\\Desktop\\shopping-training\\shoppingtrainingapp\\shoppingtrainingapp\\shoppingtrainingapp.csproj": {}
   },
   "projects": {
-    "E:\\AAsp.net-Project\\shoppingtrainingapp\\shoppingtrainingapp\\shoppingtrainingapp.csproj": {
+    "C:\\Users\\ManikandanP\\Desktop\\shopping-training\\shoppingtrainingapp\\shoppingtrainingapp\\shoppingtrainingapp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\AAsp.net-Project\\shoppingtrainingapp\\shoppingtrainingapp\\shoppingtrainingapp.csproj",
+        "projectUniqueName": "C:\\Users\\ManikandanP\\Desktop\\shopping-training\\shoppingtrainingapp\\shoppingtrainingapp\\shoppingtrainingapp.csproj",
         "projectName": "shoppingtrainingapp",
-        "projectPath": "E:\\AAsp.net-Project\\shoppingtrainingapp\\shoppingtrainingapp\\shoppingtrainingapp.csproj",
+        "projectPath": "C:\\Users\\ManikandanP\\Desktop\\shopping-training\\shoppingtrainingapp\\shoppingtrainingapp\\shoppingtrainingapp.csproj",
         "packagesPath": "C:\\Users\\ManikandanP\\.nuget\\packages\\",
-        "outputPath": "E:\\AAsp.net-Project\\shoppingtrainingapp\\shoppingtrainingapp\\obj\\",
+        "outputPath": "C:\\Users\\ManikandanP\\Desktop\\shopping-training\\shoppingtrainingapp\\shoppingtrainingapp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
